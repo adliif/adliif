@@ -1,5 +1,5 @@
-<h1 align="center"> Hi there 👋,</h1> 
-<body align="center" > Welcome to My Profile</body>
+<h1 align="center"> Hi there 👋,
+Welcome to My Profile</h1> 
 
 
 - 🔭 I’m interesting in Web Developing and Software engineering.
