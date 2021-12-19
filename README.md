@@ -1,6 +1,5 @@
 <h1 align="center"> Hi there 👋,</h1> 
-<div align="center">
-<p>Welcome to My Profile</p>
+<p1 align="center" > Welcome to My Profile</p1>
 
 
 - 🔭 I’m interesting in Web Developing and Software engineering.
