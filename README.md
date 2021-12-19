@@ -1,5 +1,4 @@
-<div align="center">
-<h>Hi there 👋,</h>
+<h>Hi there 👋,</h> <div align="center">
 <div align="center">
 <p>Welcome to My Profile</p>
 
