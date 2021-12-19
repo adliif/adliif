@@ -8,3 +8,5 @@ Welcome to My Profile</h1>
 - 📫 How to reach me: Follow my instagram on @adliif or my email adlixgame@gmail.com
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adliif&theme=tokyonight)
+
+[youtube] : https://youtube.com/channel/UCG4HGbf3A3wYPVhRRxG_uXw
