@@ -3,5 +3,5 @@
 - 📫 How to reach me: Follow my instagram on @adliif or my email adlii.fiqrullah@gmail.com
 
 <center>
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adliif&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adliif&theme=tokyonight)
 </center>
