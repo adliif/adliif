@@ -1,5 +1,5 @@
 # <p align=center> Hi, I'm Adli <img src='https://github.com/elhakimyasya/elhakimyasya/blob/master/assets/Hi.gif' width='29' height='29'/>
-A graduate in Statistics with hands-on data analytics experience. Passionate about data analytics, transforming data into actionable insight to elevate business strategy. Strong technical skills, including experience with Microsoft Excel, Google Data Studio, Python, R, SPSS, SQL, and Tableau. Previous internship experience in education learning provider practicing customer segmentation for the loyalty program. Possess excellent time management skills and the ability to work independently or in a team. 
+I am a 5th semester student majoring in Computer Science, University of Lampung with a GPA of 3.50. I'm fascinated by the world of data, and I'm always looking for new ways to apply this technology to solve real-world problems. I am always looking for new opportunities to learn and grow. If you are interested in working with me, please connect with me on LinkedIn or email me.
 
 With my comprehensive foundation in data, I am ready to tackle more challenges and thrive in data analytics. Reach me out through:
 
