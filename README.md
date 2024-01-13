@@ -1,5 +1,5 @@
 # <p align=center> Hi, I'm Adli <img src='https://github.com/elhakimyasya/elhakimyasya/blob/master/assets/Hi.gif' width='29' height='29'/>
-I am a 5th semester student majoring in Computer Science, University of Lampung with a GPA of 3.50. I'm fascinated by the world of data, and I'm always looking for new ways to apply this technology to solve real-world problems. I am always looking for new opportunities to learn and grow. If you are interested in working with me, please connect with me on LinkedIn or email me.
+Third year Computer Science student at the University of Lampung. Active in student organizations and taking part in virtual internship programs outside campus. Have a 3.59 GPA and proficiency in the programming languages Python, SQL, and other data analysis tools. Have a strong desire to learn continuously, quickly adapt to new situations, and work effectively in a team. If you are interested in working with me, please connect with me on LinkedIn or email me
 
 With my comprehensive foundation in data, I am ready to tackle more challenges and thrive in data analytics. Reach me out through:
 
